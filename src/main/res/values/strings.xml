@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceFusion</string>
+    <string name="title_person_detail">Person Detail</string>
+    <string name="title_activity_add_person">Add Person</string>
+</resources>
